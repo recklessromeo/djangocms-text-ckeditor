@@ -3,6 +3,9 @@
  * @copyright:	https://github.com/divio/djangocms-text-ckeditor
  */
 
+/* hide label inside formset  OLD DM*/
+.form-row label { display:none; }
+
 /* float left with the label */
 .cke_chrome { float: left; }
 
